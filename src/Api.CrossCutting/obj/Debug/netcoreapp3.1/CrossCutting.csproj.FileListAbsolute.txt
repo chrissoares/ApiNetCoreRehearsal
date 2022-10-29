@@ -1,0 +1,9 @@
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

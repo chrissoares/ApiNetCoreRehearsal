@@ -1,0 +1,9 @@
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb

@@ -1,0 +1,9 @@
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Cursos\CSharp\NetCoreCSharp\Secao6CriarArquiteturaDoProjeto\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
